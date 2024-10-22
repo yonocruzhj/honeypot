@@ -30,9 +30,8 @@ Accessing Honeypot Configurations <br/>
 <img src="https://imgur.com/n9EoSQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-SSH and Telnet Configurations <br/>
+SSH Configurations <br/>
 <img src="https://imgur.com/fasygX6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/k3kHYQ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Activating Honeypot <br/>
